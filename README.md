@@ -1,4 +1,1 @@
-# test-hooks
-foo
-bar
-Widget
+Acme
